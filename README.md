@@ -1,4 +1,6 @@
 BLUM BOT by MixTubeCats
+
+
 Description
 BLUM BOT is an automated Python script designed to perform various actions in applications and games on the Blum platform, such as claiming rewards, completing daily tasks, and interacting with mini-games. The bot helps automate the gaming process, collect daily rewards, and manage progress with minimal effort. It integrates with the Telegram platform through the API and uses tokens for authorization.
 
