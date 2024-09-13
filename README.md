@@ -11,13 +11,12 @@ Reward Claiming: Automatically submit requests to claim rewards.
 Tasks: Complete in-game tasks and collect rewards.
 Games: Participate in mini-games and automatically collect points.
 Daily Rewards: Automatically collect daily rewards.
-Balance Monitoring: Check the balance of in-game currencies (e.g., diamonds).
+
+
 Dependencies
 
 
-To ensure proper functionality, you need to install the following libraries:
-
-pip install aiohttp requests asyncio
+To ensure proper functionality, you need to install the following libraries: pip install aiohttp requests asyncio
 
 
 aiohttp: Asynchronous HTTP requests for interacting with the API.
